@@ -1,5 +1,5 @@
 package org.example;
 
 public enum TypeTimeTracking {
-    ClockIn, ClockOut
+    CLOCK_IN, CLOCK_OUT
 }
